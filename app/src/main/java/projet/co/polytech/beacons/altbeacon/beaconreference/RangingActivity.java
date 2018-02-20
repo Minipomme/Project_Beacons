@@ -6,6 +6,8 @@ import android.app.Activity;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.os.RemoteException;
+import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 import android.util.Log;
 import org.altbeacon.beacon.Beacon;
@@ -48,6 +50,13 @@ public class RangingActivity extends Activity implements BeaconConsumer {
         //txtRSSI = findViewById(R.id.RSSIText);
         //txtRange = findViewById(R.id.RangeText);
         beaconManager.bind(this);
+
+        final Button button = findViewById(R.id.reset_button_RSSI);
+        button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                firstStart = false;
+            }
+        });
     }
 
     @Override 

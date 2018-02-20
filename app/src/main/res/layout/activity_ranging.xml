@@ -12,7 +12,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
-        android:layout_below="@+id/RSSIText"
         android:layout_marginTop="26dp"
         app:innerColor="@color/innerColor"
         app:middleColor="@color/middleColor"
@@ -26,5 +25,14 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="43dp" />
+
+    <Button
+        android:id="@+id/reset_button_RSSI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="27dp"
+        android:text="@string/reset" />
 
 </RelativeLayout>

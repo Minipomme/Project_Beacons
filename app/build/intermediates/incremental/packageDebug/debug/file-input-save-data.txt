@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Sat Feb 17 01:40:48 CET 2018
+#Tue Feb 20 20:53:01 CET 2018
 0.baseType=DIRECTORY
-0.base=C\:\\Users\\karim\\Documents\\Travail\\Programmes importants\\Chaud_froid_beacons_Projet_CO_DII4A_BlackTheme_Tentative\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.base=E\:\\User\\Minipomme\\Documents\\Tout et n'importe quoi\\3 - DII\\2 - 4A\\ProjetCoLocalisationBeacons\\Project_Beacons_Git\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex
 0.set=DEX
 count=1

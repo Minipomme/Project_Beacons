@@ -1,55 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\User\\Minipomme\\Downloads\\Chaud_froid_beacons_Projet_CO_DII4A_BlackTheme_Tentative\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
-            "map": [
-                {
-                    "source": "E:\\User\\Minipomme\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca1f5b67d2edd43a906084e984d97e69\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "13",
-                        "endOffsets": "327"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "E:\\User\\Minipomme\\Documents\\Tout et n'importe quoi\\3 - DII\\2 - 4A\\ProjetCoLocalisationBeacons\\Project_Beacons\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
-            "map": [
-                {
-                    "source": "E:\\User\\Minipomme\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca1f5b67d2edd43a906084e984d97e69\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "13",
-                        "endOffsets": "327"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\karim\\Documents\\Travail\\Programmes importants\\Chaud_froid_beacons_Projet_CO_DII4A_BlackTheme_Tentative\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\karim\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ddff4577f219d5fbf38ba34fb0215083\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "13",
-                        "endOffsets": "327"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "E:\\User\\Minipomme\\Downloads\\Chaud_froid_beacons_Projet_CO_DII4A_JPO_2018\\Project_Beacons\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "outputFile": "E:\\User\\Minipomme\\Documents\\Tout et n'importe quoi\\3 - DII\\2 - 4A\\ProjetCoLocalisationBeacons\\Project_Beacons_Git\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
                     "source": "E:\\User\\Minipomme\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca1f5b67d2edd43a906084e984d97e69\\res\\values-hdpi-v4\\values-hdpi-v4.xml",

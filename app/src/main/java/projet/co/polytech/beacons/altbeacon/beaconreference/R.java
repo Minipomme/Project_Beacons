@@ -2387,7 +2387,7 @@ public final class R {
         public static final int progress_circular = 0x7f07004c;
         public static final int progress_horizontal = 0x7f07004d;
         public static final int radio = 0x7f07004e;
-        public static final int RSSIText = 0x7f07004f;
+        public static final int reset_button_RSSI = 0x7f07004f;
         public static final int right_icon = 0x7f070050;
         public static final int right_side = 0x7f070051;
         public static final int screen = 0x7f070052;
