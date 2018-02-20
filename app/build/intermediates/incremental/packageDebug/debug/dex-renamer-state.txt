@@ -1,0 +1,4 @@
+#Sat Feb 17 01:40:48 CET 2018
+base.0=C\:\\Users\\karim\\Documents\\Travail\\Programmes importants\\Chaud_froid_beacons_Projet_CO_DII4A_BlackTheme_Tentative\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
